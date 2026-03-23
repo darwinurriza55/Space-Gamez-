@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Space Gamez
 
 A simple 2D arcade-style space shooter built with Python. This project focuses on core game development concepts such as player movement, enemy spawning, collision detection, scoring, and sound effects.
@@ -79,6 +78,3 @@ SpaceGamez/
 * Add power-ups and upgrades
 * Implement a menu system
 * Refactor code into modular structure
-=======
-
->>>>>>> d996a86a6070a512b13ae00bc03136519b15a00a
