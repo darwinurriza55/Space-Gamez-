@@ -10,7 +10,7 @@ Space Gamez is a classic shoot-'em-up where the player controls a spaceship and 
 
 Live Link : [View Live Demo]()
 
-![PHTravelHub Homepage](/Picspace.png)
+![PHTravelHub Homepage](/.png)
 
 ## 🧩 Features
 
