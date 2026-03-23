@@ -70,11 +70,3 @@ SpaceGamez/
 
 * Make sure all image and sound files remain in the same directory as `Game.py`.
 * The game stores the highest score in `high_score.txt`.
-
-## 🚧 Possible Improvements
-
-* Add levels or difficulty scaling
-* Improve enemy AI behavior
-* Add power-ups and upgrades
-* Implement a menu system
-* Refactor code into modular structure
